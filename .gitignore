@@ -1,10 +1,8 @@
-
+/Other Notebooks
 .ipynb_checkpoints
 */.ipynb_checkpoints
 
 *.ipynb_checkpoints/
 
-/data/diabetes/*.csv
-/data/diabetes/*.pdf
 
 
